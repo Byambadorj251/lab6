@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://byambadorj251.github.io/lab6/sitemap.xml
