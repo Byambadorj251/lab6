@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://example.com/mongolian-news-portal/sitemap.xml
